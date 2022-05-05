@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867374333124",
+    "project_id": "taauthentication",
+    "storage_bucket": "taauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867374333124:android:dd0bb1d74aa0710a04dd91",
+        "android_client_info": {
+          "package_name": "com.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867374333124-nguuu9647fffh31g01qje4kc5l51spv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYc9Z75IxcHrMkj7l6Wm9hPWk0AwcSD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867374333124-nguuu9647fffh31g01qje4kc5l51spv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
